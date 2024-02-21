@@ -1,1 +1,1 @@
-# ftp.nauv.com
+# ftp.nova-villa.pl
